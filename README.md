@@ -4,7 +4,9 @@
   <div>
     <p>- 🌱 I’m graduating in Bachelor’s degree, Software Engineer ...</p>
     <p>- And currently looking for a job in <strong>front-end</strong> ...</p>
+    <!-- 
     <p>- Skills: <strong> React, Redux, Node, JavaScript, html, CSS. </strong></p>
+    -->
   </div>
   <div>
     <p>I'm focused on improving my skills in <strong>React</strong> and <strong>Typescript.</strong><br> I also have little knowledge in <strong>Node</strong> and <strong>Mysql</strong></>
