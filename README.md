@@ -44,3 +44,10 @@
 
 </div>
 
+<div align="center">
+  <h3><p align="center">Visitors Count</p> 
+  <p align="center">
+      <img alingn="center" src="https://profile-counter.glitch.me/gab-h3nrique/count.svg"/>
+  </p>
+</div> 
+
