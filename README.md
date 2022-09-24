@@ -34,6 +34,14 @@
  <a style ="border-radius:20px" href="https://www.linkedin.com/in/gabriel-henrique-47ab76188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <h3><p align="center">visits</p> 
+  <p align="center">
+      <img alingn="center" src="https://profile-counter.glitch.me/gab-h3nrique/count.svg"/>
+  </p>
+</div> 
+
+
 <!--
 
  <div align="right">
@@ -44,10 +52,4 @@
 
 </div>
 
-<div align="center">
-  <h3><p align="center">Visitors Count</p> 
-  <p align="center">
-      <img alingn="center" src="https://profile-counter.glitch.me/gab-h3nrique/count.svg"/>
-  </p>
-</div> 
 
