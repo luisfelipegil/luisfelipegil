@@ -34,9 +34,9 @@
  <a style ="border-radius:20px" href="https://www.linkedin.com/in/gabriel-henrique-47ab76188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <h3><p align="center">visits</p> 
-  <p align="center">
+<div align="left">
+  <h3><p align="left">visits</p> 
+  <p align="left">
       <img alingn="center" src="https://profile-counter.glitch.me/gab-h3nrique/count.svg"/>
   </p>
 </div> 
@@ -44,7 +44,7 @@
 
 <!--
 
- <div align="right">
+ <div align="left">
   
   
 ![gab-h3nrique's Stats](https://github-readme-stats.vercel.app/api?username=gab-h3nrique&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
